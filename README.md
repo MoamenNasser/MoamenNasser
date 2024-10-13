@@ -10,6 +10,9 @@ I'm a passionate Software Engineer specializing in **Embedded Systems**, **C++**
 ### 🔭 Current Projects
 - Developing a custom **Message Broker** system.
 - Building an **AI-powered** vehicle safety solution using **CAN bus** and **deep learning** models.
+- Building a Routing Module That Works Fine with Linux Kernel
+- Developing an Embedded System Project that implements the Idea if Missile using Aircrafts(Collabe with Aerospace Engineers)
+- Developing UDSs for Several Usage Into Embedded System Field
 
 ### 📫 How to reach me:
 - LinkedIn: [linkedin.com/in/moamen-nasser-233076186](https://www.linkedin.com/in/moamen-nasser-233076186/)
